@@ -1,0 +1,13 @@
+README.md
+setup.py
+meu_pacote_imagens2.egg-info/PKG-INFO
+meu_pacote_imagens2.egg-info/SOURCES.txt
+meu_pacote_imagens2.egg-info/dependency_links.txt
+meu_pacote_imagens2.egg-info/requires.txt
+meu_pacote_imagens2.egg-info/top_level.txt
+processing/__init__.py
+processing/combination.py
+processing/transformation.py
+utils/__init__.py
+utils/io.py
+utils/plot.py

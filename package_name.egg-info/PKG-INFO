@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: package_name
+Version: 0.0.1
+Summary: Criando um pacote de processamento de imagem com Phyton
+Home-page: https://github.com/Destefanir/image-processing-package
+Author: Rafael
+Author-email: rdestefani000@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: scikit-image>=0.16.1
+Dynamic: author
+Dynamic: author-email
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
