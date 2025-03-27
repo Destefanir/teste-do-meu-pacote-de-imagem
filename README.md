@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # image_processing
 
 Description.
@@ -27,3 +28,4 @@ Rafael Destefani
 
 # Licença
 [MIT](https://choosealicense.com/licenses/mit/)
+
